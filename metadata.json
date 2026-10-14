@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Little Stars — عالم الصغار",
+  "description": "منصة تعليمية وترفيهية آمنة ومبهجة للأطفال من عمر 2 إلى 6 سنوات، غنية بالألعاب التفاعلية والحروف والأرقام وبوابة إدارة آمنة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
